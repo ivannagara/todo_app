@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "335576595085",
+    "project_id": "qw-ivan",
+    "storage_bucket": "qw-ivan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335576595085:android:d85e1145e0740340b240c4",
+        "android_client_info": {
+          "package_name": "com.example.flutter_cookbook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "335576595085-q0p4jme1f39m498fo3mgmnb5ei5paald.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCI0Gy5juhoIK7JTq4L4kyKiv39VwIq1j0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "335576595085-q0p4jme1f39m498fo3mgmnb5ei5paald.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
